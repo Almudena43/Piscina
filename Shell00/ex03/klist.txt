@@ -1,0 +1,6 @@
+Credentials cache: API:8732FAE2-CB61-408D-B49D-26C14EF80E70
+        Principal: almadrid@42BARCELONA.COM
+
+  Issued                Expires               Principal
+Dec  8 15:25:43 2021  Dec  9 01:25:43 2021  krbtgt/42BARCELONA.COM@42BARCELONA.COM
+Dec  8 15:25:44 2021  Dec  9 01:25:43 2021  HTTP/student-storage.42barcelona.com@42BARCELONA.COM
